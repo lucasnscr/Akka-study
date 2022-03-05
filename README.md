@@ -1,6 +1,6 @@
 # Akka-study
 
-##Project description
+## Project description
 
 🚀 This project promoted the basic actor model implementation
 ## Installation ##
